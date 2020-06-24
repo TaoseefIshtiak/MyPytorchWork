@@ -5,10 +5,10 @@
 > The 'path' should be corrected according to directory of the desginated dataset folder. 
 > Some of the pretrained weights are provided.
 
-***Dataset Folder can be acquired: https://drive.google.com/file/d/1BVLq4xAaE-xExnhCitc7CXiS66SS4L82/view?usp=sharing***
+***Dataset Folder can be acquired from <a href = "https://drive.google.com/file/d/1BVLq4xAaE-xExnhCitc7CXiS66SS4L82/view?usp=sharing"> here </a> ***
 
 
-**Necessary libraries to install**
+**Requirements**
 
 - torch 
 - numpy
